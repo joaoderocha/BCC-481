@@ -1,0 +1,39 @@
+body {
+  background-color: white;
+  color: black;
+}
+
+a:visited {
+  color: violet;
+}
+
+header nav {
+  background-color: orange;
+  text-align: left top;
+}
+
+h1,
+h2 {
+  background-color: lightskyblue;
+}
+
+section {
+  justify-content: center;
+  align-items: center;
+  display: block;
+  position: relative;
+  background-color: gray;
+  text-align: center;
+  border-radius: 25px;
+  width: 75%;
+  top: 50%;
+  left: 10%;
+}
+
+footer {
+  background-color: black;
+  justify-content: center;
+  align-items: center;
+  display: block;
+  position: relative;
+}
